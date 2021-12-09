@@ -5,6 +5,8 @@ avengers.shift();
 avengers.push("IRONMAN");
 console.log(avengers);
 
+console.log(avengers.length)
+
 const rickAndMortyCharacters = ["Rick", "Beth", "Jerry"];
 rickAndMortyCharacters.push("Morty","Summer");
 console.log(rickAndMortyCharacters);
